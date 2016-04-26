@@ -61,6 +61,7 @@ h2 {
 
 .logo a {
     color:white;
+  text-decoration: none;
 }
 
 .session-list-item, 
