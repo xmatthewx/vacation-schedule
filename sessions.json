@@ -1,23 +1,7 @@
 {
     "sessions": [
         {
-            "category": "For All Participants", 
-            "day": "Saturday", 
-            "description": "", 
-            "facilitator_array": [
-                "Mavis Ou <3"
-            ], 
-            "facilitators": "Mavis Ou <3", 
-            "id": "1", 
-            "link": "", 
-            "location": "Main Ballroom", 
-            "start": "09:00 AM", 
-            "tags": "", 
-            "timeblock": "reserved-saturday-registration", 
-            "title": "Registration"
-        }, 
-        {
-            "category": "For All Participants", 
+            "category": "Fun", 
             "day": "Saturday", 
             "description": "", 
             "facilitator_array": [
@@ -33,7 +17,7 @@
             "title": "Lunch"
         }, 
         {
-            "category": "For All Participants", 
+            "category": "Fun", 
             "day": "Saturday", 
             "description": "", 
             "facilitator_array": [
@@ -49,7 +33,7 @@
             "title": "Dinner"
         }, 
         {
-            "category": "For All Participants", 
+            "category": "Rest and Relaxation", 
             "day": "Sunday", 
             "description": "", 
             "facilitator_array": [
@@ -66,7 +50,7 @@
             "title": "Closing Dinner"
         }, 
         {
-            "category": "Advocacy", 
+            "category": "Rest and Relaxation", 
             "day": "Saturday", 
             "description": "", 
             "facilitator_array": [
@@ -77,12 +61,12 @@
             "link": "", 
             "location": "Room 101", 
             "start": "10:30 AM", 
-            "tags": "working open", 
+            "tags": "surfing", 
             "timeblock": "saturday-morning-block-1", 
-            "title": "How to start a campaign"
+            "title": "How to do nothing now"
         }, 
         {
-            "category": "Advocacy", 
+            "category": "Fun", 
             "day": "Sunday", 
             "description": "", 
             "facilitator_array": [
@@ -94,9 +78,9 @@
             "link": "", 
             "location": "Room 204", 
             "start": "09:30 AM", 
-            "tags": "working open, privacy", 
+            "tags": "site seeing, eating", 
             "timeblock": "sunday-opening", 
-            "title": "Protect your data"
+            "title": "Naps"
         }, 
         {
             "category": "Advocacy", 
@@ -111,12 +95,12 @@
             "link": "", 
             "location": "Room 204", 
             "start": "10:30 AM", 
-            "tags": "working open, privacy", 
+            "tags": "surfing", 
             "timeblock": "saturday-morning-block-1", 
-            "title": "Encryption & decryption"
+            "title": "Beach time"
         }, 
         {
-            "category": "MLN", 
+            "category": "Rest and Relaxation", 
             "day": "Saturday", 
             "description": "", 
             "facilitator_array": [
@@ -129,12 +113,12 @@
             "link": "", 
             "location": "Room 203", 
             "start": "04:30 PM", 
-            "tags": "working open, teach the web", 
+            "tags": "site seeing, eating", 
             "timeblock": "saturday-afternoon-block-1", 
-            "title": "Github Tutorial"
+            "title": "Food in the city"
         }, 
         {
-            "category": "MLN", 
+            "category": "Fun", 
             "day": "Saturday", 
             "description": "", 
             "facilitator_array": [
@@ -146,12 +130,12 @@
             "link": "", 
             "location": "Room 100", 
             "start": "04:30 PM", 
-            "tags": "working open, teach the web", 
+            "tags": "eating", 
             "timeblock": "saturday-afternoon-block-1", 
-            "title": "How to run a Club"
+            "title": "Local market"
         }, 
         {
-            "category": "MLN", 
+            "category": "Rest and Relaxation", 
             "day": "Sunday", 
             "description": "", 
             "facilitator_array": [
@@ -163,20 +147,12 @@
             "link": "", 
             "location": "Room 202", 
             "start": "11:00 AM", 
-            "tags": "working open", 
+            "tags": "site seeing, eating", 
             "timeblock": "sunday-morning-block-1", 
-            "title": "How to work open"
+            "title": "Country road trip"
         }
     ], 
     "timeblocks": [
-        {
-            "day": "Saturday", 
-            "key": "reserved-saturday-registration", 
-            "order": "1", 
-            "reserved for everyone": "yes", 
-            "start time": "09:00 ", 
-            "timeblock name": "Saturday Registration"
-        }, 
         {
             "day": "Saturday", 
             "key": "saturday-morning-block-1", 

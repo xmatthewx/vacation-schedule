@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Schedule App</title>
+    <title>Vacation Schedule</title>
     <meta name="description" content="Schedule for MozFest 2016">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://mozilla.github.io/schedule-app-core/css/schedule.css">
@@ -27,7 +27,7 @@
       <nav>
         <div class="container">
           <div class="logo">
-            <img src="img/logo-mozilla-festival.svg" />
+            :)
           </div>
           <div id="page-links"></div>
         </div>
@@ -183,20 +183,20 @@
     <script src="https://mozilla.github.io/schedule-app-core/js/schedule.js"></script>
     <script>
       var customConfig = {
-        mainHeaderText: "MozFest 2016",
-        subHeaderText: "*** filled with dummy data ***",
+        mainHeaderText: "Vacation 2016",
+        subHeaderText: "yay yay yay",
         displayNameForCategory: {
           singular:'theme', // this can only be one word
           plural: 'themes' // this can only be one word
         },
         displayNameForTag: {
-          singular:'tag', // this can only be one word
-          plural: 'tags' // this can only be one word
+          singular:'adventure', // this can only be one word
+          plural: 'adventures' // this can only be one word
         },
         pathToSessionsJson: 'sessions.json',
         pathToCategoriesJson: 'themes.json',
         pathToTagsJson: 'tags.json',
-        localStoragePrefix: 'iron-chef',
+        localStoragePrefix: 'vacay-schedule',
         tabList: [
           { name: 'Saturday', displayName: 'Sat', tabDate: new Date(2016,5,21) },
           { name: 'Sunday', displayName: 'Sun', tabDate: new Date(2016,5,22) },
